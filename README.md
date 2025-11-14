@@ -3,8 +3,8 @@ Welcome to the official repository of the AI and Omics Research Internship (2025
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Theory Session
-1.Introduction to Machine Learning & Linear Regression [Lecture ](https://youtu.be/c00yjmUp8UY?feature=shared)    
-2.Introduction to Logistic Regresiion Model [Lecture](https://youtu.be/EjbfyWe0kMo?feature=shared)
+1. Introduction to Machine Learning & Linear Regression [Lecture ](https://youtu.be/c00yjmUp8UY?feature=shared)
+2. Introduction to Logistic Regresiion Model [Lecture](https://youtu.be/EjbfyWe0kMo?feature=shared)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ## Practical Sessions  
